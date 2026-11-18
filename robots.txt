@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grappa159.github.io/perm-tamada/sitemap.xml
